@@ -149,4 +149,156 @@ h2 a:hover{
 .box:hover .content-1{
     width: 100%;
  }
-
+ h3{
+     font-size: 20px;
+     text-align: right;
+ }
+ .content-2{
+    width: 0;
+    height: 100%;
+    background-color: #0e151da2;
+    text-align: center;
+    font-size: 40px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    transition-duration: 0.1s;
+    overflow: hidden;
+    border-radius: 20px;
+}
+.box:hover .content-2{
+    width: 100%;
+ }
+.box-1{
+    width: 250px;
+    height: 250px;
+    margin: 2px;
+    position: relative;
+}
+.feature-1{
+    height: 100%;
+    overflow: hidden;
+    border-radius: 20px;
+}
+.feature-1 img{
+    width: 100%;
+}
+.box-1:hover{
+    opacity: 50%;
+}
+.box-2{
+    width: 300px;
+    height: 445px;
+    margin: 2px;
+    position: relative;
+}
+.feature-2{
+    height: 100%;
+    overflow: hidden;
+    border-radius: 20px;
+}
+.feature-2 img{
+    width: 100%;
+}
+.box-3{
+    width: 300px;
+    height: 400px;
+    margin: 2px;
+    position: relative;
+}
+.box-4{
+    width: 300px;
+    height: 400px;
+    margin: 2px;
+    position: relative;
+}
+.content-3{
+    width: 100%;
+    height: 400px;
+    background-color: #0e151d;
+    text-align: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition-duration: 2s;
+    visibility: visible;
+    opacity: 1;
+    border-radius: 20px; 
+    padding: 100px;
+}
+.box-3:hover .content-3{
+    visibility: hidden;
+    opacity: 0;
+}
+.content-4{
+    width: 100%;
+    height: 445px;
+    background-color: #0e151d;
+    text-align: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition-duration: 2s;
+    visibility: visible;
+    opacity: 1;
+    border-radius: 20px; 
+    padding: 100px;
+}
+.box-2:hover .content-4{
+    visibility: hidden;
+    opacity: 0;
+}
+.content-5{
+    width: 100%;
+    height: 400px;
+    background-color: #0e151d;
+    text-align: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition-duration: 2s;
+    visibility: visible;
+    opacity: 1;
+    border-radius: 20px; 
+    padding: 100px;
+}
+.box-4:hover .content-5{
+    visibility: hidden;
+    opacity: 0;
+}
+.box-5{
+    width: 530px;
+    height: 370px;
+    margin: 2px;
+    position: relative;
+}
+.feature-3{
+    height: 100%;
+    overflow: hidden;
+    border-radius: 20px;
+}
+.feature-3 img{
+    width: 100%;
+}
+.box-6{
+    width: 350px;
+    height: 350px;
+    margin: 2px;
+    position: relative;
+}
+.text{
+    text-align: right;
+}
+button{
+    background-color: #66BAB7;
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+}
+.text-24{
+    text-decoration: none;
+    color: #EEEEEE;
+}
+button:hover{
+    opacity: 40%;
+}

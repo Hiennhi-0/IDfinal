@@ -33,6 +33,27 @@ h2{
     line-height: 125%;
     letter-spacing: 0.1cm;
 }
+h3{
+    font-family: 'DM Serif Display', serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 125%;
+    letter-spacing: 0.1cm;
+}
+h5{
+    font-family: 'DM Serif Display', serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 125%;
+    letter-spacing: 0.1cm;
+}
+h6{
+    font-family: 'DM Serif Display', serif;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 125%;
+    letter-spacing: 0.1cm;
+}
 h1{
     font-family: 'Staatliches', cursive;
     font-weight: 600;
